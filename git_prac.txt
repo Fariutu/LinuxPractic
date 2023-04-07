@@ -1,0 +1,1 @@
+we should use git add command for adding the files we want on a git can say that git staging is in 
